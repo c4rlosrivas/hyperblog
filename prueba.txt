@@ -3,3 +3,7 @@ solo para probar que he aprendido algo de git
 
 aqui habia otro texto que borre para hacer un nuevo commit
 estoy escuchando un stream de pokemon :v
+
+este cambio lo voy a hacer para regresar en el tiempo
+
+salto en el tiempo 1
