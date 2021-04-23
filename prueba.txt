@@ -1,0 +1,5 @@
+Este es un archivo de pruebas
+solo para probar que he aprendido algo de git
+
+esta modificacion se hace cuando ya se hiso el "git add ."
+se va a comprobar los cambios
