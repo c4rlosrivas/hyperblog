@@ -1,5 +1,5 @@
 Este es un archivo de pruebas
 solo para probar que he aprendido algo de git
 
-esta modificacion se hace cuando ya se hiso el "git add ."
-se va a comprobar los cambios
+aqui habia otro texto que borre para hacer un nuevo commit
+estoy escuchando un stream de pokemon :v
