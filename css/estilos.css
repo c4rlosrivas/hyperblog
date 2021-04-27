@@ -46,3 +46,11 @@ body
     background: white;
     padding: lem;
 }
+
+#footer
+{
+    background:white;
+    color:green;
+    text-align: center;
+    padding: 0.5em;
+}
