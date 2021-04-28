@@ -10,3 +10,4 @@ En este curso he visto cosas que nunca vi ni pense entender
 * Buenas practicas 
 * Trucos locos del profesor Freddy
 * Creado con ayuda de Platzi
+* Incluye ejemplo en windows, linux y mac
