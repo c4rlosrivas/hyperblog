@@ -9,4 +9,10 @@ En este curso he visto cosas que nunca vi ni pense entender
 * Flujo de trabajo en GitHub
 * Buenas practicas 
 * Trucos locos del profesor Freddy
+<<<<<<< HEAD
 * Creado con ayuda de Platzi
+=======
+* Creado con ayuda de Platzi
+* Incluye ejemplo en windows, linux y mac
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
