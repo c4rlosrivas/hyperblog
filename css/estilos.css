@@ -20,6 +20,11 @@ body
 
 }
 
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
 #cabecera #tagline
 {
     margin: 0 0 0 1em;
@@ -44,13 +49,13 @@ body
 #post
 {
     background: white;
-    padding: lem;
+    padding: 1em;
 }
 
 #footer
 {
-    background:white;
-    color:green;
+    background:#37488b;
+    color:white;
     text-align: center;
     padding: 0.5em;
 }
